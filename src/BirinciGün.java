@@ -12,7 +12,7 @@ public class BirinciGün {
 		System.out.println("11:05 local");
 		System.out.println("10:26 feature branch");
 		System.out.println("10-58 feature branch");
-		
+		System.out.println("10-59 master branch");
 
 
 	}
